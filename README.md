@@ -47,5 +47,5 @@ Las contribuciones son bienvenidas. Si encuentras algún problema o tienes suger
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Nombre de la Licencia]. Ver el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT license. Ver el archivo LICENSE para más detalles.
 
