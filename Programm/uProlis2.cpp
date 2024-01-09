@@ -34,7 +34,7 @@ while ( ! FinDeListado() )
 LeerInformacion( );
 mDevuelveRegistro( RegPrestamo );
 // acumula totales
-    if ( lnformacionMostrable())
+    if ( InformacionMostrable())
     {
         voMontoDePres += RegPrestamo.MontoDePres;
         voMontoDeInt += RegPrestamo.MontoDeInt;
@@ -65,3 +65,4 @@ void clistPreOto :: MensajeNoHayInfo()
     Mensaje( 12, "No se ha Otorgado Prestamo alguno");
 }
 // ----------------------------------------------------------------
+
