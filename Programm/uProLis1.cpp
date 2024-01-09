@@ -7,22 +7,22 @@ clistPreCli :: clistPreCli()
         if (! ObjCliente.mTodoCorrecto())
             mRegistraError( );
         else
-            Reinicialimites(7, 1, 23, 80, ListadoConFiltro );
+            ReiniciaLimites(7, 1, 23, 80, ListadoConFiltro );
     }
 } 
 // ----------------------------------------------------------------
 void cListPreCli :: Ejecuta()
 {
-int volngresaClave;
+int voIngresaClave;
 do {
     FormatoListado();
-    volngresaClave = Ingresa Clave();
-    if (volngresaClave)
+    voIngresaClave = IngresaClave();
+    if (voIngresaClave)
     {
         if ( ! ObjCliente.mObtieneReg( RegCliente.LibretaElec, RegCliente))
             Mensaje(23, "CLIENTE NO REGISTRADO");
         else
-            if (! ObjCliente.lnformacionActiva())
+            if (! ObjCliente.InformacionActiva())
             Mensaje(23, "CLIENTE ESTA ANULADO");
         else
         {
@@ -30,7 +30,7 @@ do {
            Listado();
         }
     }
-}while ( volngresaClave );
+}while ( voIngresaClave );
 }
 // ----------------------------------------------------------------
 int cListPreCli :: InformacionMostrable()
@@ -49,7 +49,7 @@ void cListPreCli :: Formatolistado()
     EscribeCad(30,6, "PRESTAMOS: PRES.ACTUAL: ");
 }
 // ----------------------------------------------------------------
-int cListPreCli :: lngresaClave()
+int cListPreCli :: IngresaClave()
 {
     char voTeclaSalida;
     cCadena voCadena;
@@ -123,7 +123,7 @@ char *cListPreCli :: lnformacion()
     strcpy( cadenas[7],AlineaDer( 10,FormatoNum( RegPrestamo.TotalInt,2)));
     strcpy( cadenas[8],AlineaDer( 6,FormatoNum( RegPrestamo.NumPagos,0 )));
     
-    int Longitud;
+    int longitud;
     strcpy( cadena.cadenas[0]);
     longitud = strlen(cadenas[0]);
 
@@ -142,3 +142,4 @@ sRegCliente &prRegCliente)
     ObjCliente.mObtieneReg(pvLibretaElec, prRegCliente);
 } 
 // ----------------------------------------------------------------
+
