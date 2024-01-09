@@ -8,19 +8,19 @@
 class cListPreCli : public cMantSecPre
 {
     private:
-    cMantlndCli ObjCliente;
+    cMantIndCli ObjCliente;
     sRegCliente RegCliente;
     sRegPrestamo RegPrestamo;
 
     public:
     cListPreCli( );
     virtual void Ejecuta();
-    virtual int lnformacionMostrable( );
+    virtual int InformacionMostrable( );
     void FormatoListado();
-    virtual int lngresaClave();
+    virtual int IngresaClave();
     void MuestraDatosCliente();
     virtual void AsignarEncabezado( );
-    virtual char * lnformacion( );
+    virtual char * Informacion( );
 // metodo de comunicacion para el acceso a los datos
 void mDevuelveRegCliente( char *pvLibretaElec,
 sRegCliente &prRegCliente);
