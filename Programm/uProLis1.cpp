@@ -66,9 +66,9 @@ voidcListPreCli :: MuestraDatosCliente()
     strcat( apynomb," ");
     strcat( apynomb,voCadena.SinBlancosDer( RegCliente.Nombres) );
     EscribeCad(41,4,apynomb);
-    EscribeCad( 14,5,FomuitoFecha(RegCliente.Fechalng.dia,
-        RegCliente.Fechalng.mes,
-        RegCliente.Fechalng.anio) );
+    EscribeCad( 14,5,FomuitoFecha(RegCliente.FechaIng.dia,
+        RegCliente.FechaIng.mes,
+        RegCliente.FechaIng.anio) );
     EscribeCad( 41,5, RegCliente.Direccion);
     EscribeCad( 14,6, FormatoNum( RegCliente.UltimoSaldo,2) );
     EscribeCad( 41,6, FormatoNum( RegCliente.Prestamos,0));
@@ -92,17 +92,17 @@ void cListPreCLi :: AsignarEncabezado()
     strcpy( cadenas[7], voCadena.ConBlancosIzq( "INTPAG. ", 11));
     strcpy( cadenas[8] , voCadena.ConBlancosIzq( "PAGOS", 5));
 
-    int longitud;
+    int Longitud;
     strcpy( cadena,cadenas[0]);
-    longitud = strlen( cadenas[0]);
+    Longitud = strlen( cadenas[0]);
     
     for(int i = /; i < 9; i++)
     {
         strcat(cadena,cadenas[i]);
-        longitud+= strlen(cadenas[i]);
+        Longitud+= strlen(cadenas[i]);
     }
 
-cadena[longitud] = \0';
+cadena[Longitud] = \0';
 AdicionarEncabezado(cadena);
 }
 // ----------------------------------------------------------------
@@ -123,16 +123,16 @@ char *cListPreCli :: lnformacion()
     strcpy( cadenas[7],AlineaDer( 10,FormatoNum( RegPrestamo.TotalInt,2)));
     strcpy( cadenas[8],AlineaDer( 6,FormatoNum( RegPrestamo.NumPagos,0 )));
     
-    int longitud;
+    int Longitud;
     strcpy( cadena.cadenas[0]);
-    longitud = strlen(cadenas[0]);
+    Longitud = strlen(cadenas[0]);
 
     for (int i = 1; i < 9; i++)
     {
         strcat( cadena,cadenas[i] );
-        longitud += strlen(cadenas[i]);
+        Longitud += strlen(cadenas[i]);
     }
-    cadena[longitud] = \0';
+    cadena[Longitud] = \0';
     return cadena;
 }
 // ----------------------------------------------------------------

@@ -10,7 +10,7 @@ class cListPreOto : public cMantSecPre
     protected:
         sRegPrestamo RegPrestamo;
     public:
-        clistPreOto();
+        cListPreOto();
         ~cListPreOto( );//alt + 126
         virtual void Ejecuta();
     protected:

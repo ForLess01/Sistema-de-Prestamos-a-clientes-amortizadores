@@ -50,7 +50,7 @@ IrAlSiguiente();
             EscribeCad( 15, 25,AlineaDer( 10, FormatoNum( voMontoDePres , 2)) );
             EscribeCad( 32, 25,AlineaDer( 10, FormatoNum( voMontoDeInt , 2)) );
             EscribeCad( 53,25,AlineaDer( 10, FormatoNum(voTotalAmort ,2)));
-            EscribeCad( 63, 25,AlineaDer( 10, FormatoNum( vo TotalInt , 2)) );
+            EscribeCad( 63, 25,AlineaDer( 10, FormatoNum( voTotalInt , 2)) );
     }
 } 
 // ----------------------------------------------------------------
