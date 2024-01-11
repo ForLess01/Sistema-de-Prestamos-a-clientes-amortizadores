@@ -1,0 +1,19 @@
+The perspective Code::blocks default has changed. Do you want to save it?
+
+It seems that this project has not been built yet.
+Do you want to build it now?
+
+error: "sRegIdice" does not name a type
+errror: 'clrscr' was not declared in this scope
+error: invalid conversion from 'char**' to 'const char**' [-fpermissive]
+
+
+
+La perspectiva Code::blocks por defecto ha cambiado. ¿Quiere guardarla?
+
+Parece que este proyecto aún no se ha construido.
+¿Quiere construirlo ahora?
+
+Error: "sRegIdice" no nombra un tipo
+error: 'clrscr' no ha sido declarado en este ámbito
+error: conversión inválida de 'char**' a 'const char**' [-fpermissive]

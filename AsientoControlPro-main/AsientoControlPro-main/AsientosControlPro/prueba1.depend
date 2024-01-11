@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1704759074 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\main.cpp
+	"protproy.h"
+
+1704759159 u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\include\protproy.h
+
+1704759198 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\src\milib.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	<ctype.h>
+	<Windows.h>
+	<thread>
+	<chrono>
+	<stdio.h>
+	"milib.h"
+	<windows.h>
+	<cstring>
+	<ctime>
+	"Parche.h"
+
+1704759198 u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\include\milib.h
+
+1704759240 u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\include\parche.h
+
+1704759240 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\src\parche.cpp
+	"Parche.h"
+	<cstring>
+	<iostream>
+	<Windows.h>
+	<cstdlib>
+	<ctime>
+
+1704759159 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\prueba1\src\protproy.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"milib.h"
+	"protproy.h"
+	"Parche.h"
+
+1704759905 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\main.cpp
+	"protproy.h"
+
+1704759951 u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\include\protproy.h
+
+1704759920 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\src\milib.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<stdlib.h>
+	<ctype.h>
+	<Windows.h>
+	<thread>
+	<chrono>
+	<stdio.h>
+	"milib.h"
+	<windows.h>
+	<cstring>
+	<ctime>
+	"Parche.h"
+
+1704759885 u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\include\milib.h
+
+1704759950 u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\include\parche.h
+
+1704759923 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\src\parche.cpp
+	"Parche.h"
+	<cstring>
+	<iostream>
+	<Windows.h>
+	<cstdlib>
+	<ctime>
+
+1704759943 source:u:\onedrive - universidad nacional del altiplano puno\ing. sistemas\2s_2023-ii\4 poo ii\proyectos\asientocontrolpro\asientoscontrolpro\src\protproy.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"milib.h"
+	"protproy.h"
+	"Parche.h"
+
