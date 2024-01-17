@@ -6,7 +6,7 @@ int cListPrePen :: InformacionMostrable(){
     RegPrestamo.NumCuotas != RegPrestamo.NumPagos);
 }
 //-------------------------------------
-void clistPrePen :: MensajeNoHayInfo()
+void cListPrePen :: MensajeNoHayInfo()
 {
     Mensaje( 12, "No existen Prestamos Pendientes de Pago");
 }
