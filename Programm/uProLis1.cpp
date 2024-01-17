@@ -1,6 +1,6 @@
 #include "uProLis1.h"
 // ----------------------------------------------------------------
-clistPreCli :: clistPreCli()
+clistPreCli :: cListPreCli()
 {
     if (mTodoCorrecto( ))
     {
@@ -40,7 +40,7 @@ int cListPreCli :: InformacionMostrable()
         strcmp( RegPrestamo.LibretaElec, RegCliente.LibretaElec )==0 );
 }
 // ----------------------------------------------------------------
-void cListPreCli :: Formatolistado()
+void cListPreCli :: FormatoListado()
 {
     BorraArea( 1,4,80,23);
     EscribeCad( 1,4, "L.ELECTORAL: CLIENTE : ");
@@ -54,7 +54,7 @@ int cListPreCli :: IngresaClave()
     char voTeclaSalida;
     cCadena voCadena;
     strcpy( RegCliente.LibretaElec,voCadena.Espacios(8) );
-    strcpy( RegCliente.LibretaElec,lngresaCad(14,4,8) );
+    strcpy( RegCliente.LibretaElec,IngresaCad(14,4,8) );
     return ( strlen( RegCliente.LibretaElec) > O);
 }
 // ----------------------------------------------------------------
@@ -106,7 +106,7 @@ cadena[Longitud] = \0';
 AdicionarEncabezado(cadena);
 }
 // ----------------------------------------------------------------
-char *cListPreCli :: lnformacion()
+char *cListPreCli :: Informacion()
 {
     char cadenas[10][80], cadena[256];
     cCadena voCadena;
@@ -117,7 +117,7 @@ char *cListPreCli :: lnformacion()
                                                    RegPrestamo.FechaDePres.anio)) );
     strcpy( cadenas[2],AlineaDer( 10, FormatoNum( RegPrestamo.MontoDePres,2)) );
     strcpy( cadenas[3],AlineaDer(7, FormatoNum( RegPrestamo.NumCuotas,0)) );
-    strcpy( cadenas[4],AlineaDer( 10,FormatoNum( RegPrestamo.MontoDelnt,2 )));
+    strcpy( cadenas[4],AlineaDer( 10,FormatoNum( RegPrestamo.MontoDeInt,2 )));
     strcpy(cadenas[5],AlineaDer( 10,FormatoNum(RegPrestamo.Mensualidad,2)));
     strcpy( cadenas[6],AlineaDer( 10,FormatoNum( RegPrestamo.TotalAmort,2)));
     strcpy( cadenas[7],AlineaDer( 10,FormatoNum( RegPrestamo.TotalInt,2)));
