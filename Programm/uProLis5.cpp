@@ -51,7 +51,7 @@ int cListPagPre :: InformacionMostrable()
     retrun (RegPago.Estado && (RegPago.NumPrestamo == RegPrestamo.NumPrestamo));
 }
 // ----------------------------------------------------------------
-void cListPagPre :: FonnatoListado()
+void cListPagPre :: FormatoListado()
 {
     cCadena voCadena;
     BorraArea(1,4,80,23);
