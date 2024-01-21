@@ -1,0 +1,652 @@
+# depslib dependency file v1.0
+1704499523 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_uarchivo.cpp
+	<dos.h>
+	<windows.h>
+	"_uArchivo.h"
+
+1704499485 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_uarchivo.h
+	<iostream>
+	<fstream>
+
+1704735845 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_ubase.cpp
+	"_uBase.h"
+	"milib.h"
+	<Windows.h>
+
+1704735830 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_ubase.h
+
+1704499620 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_uindice.cpp
+	<string.h>
+	"_uIndice.h"
+
+1704499591 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_uindice.h
+	"_uArchivo.h"
+	<string.h>
+
+1704737509 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_ulisgen.cpp
+	<string.h>
+	"_uLisGen.h"
+
+1704736716 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_ulisgen.h
+	<conio.h>
+	"milib.h"
+	"uCadenas.h"
+	"_uTeclado.h"
+	"windows.h"
+	"colors.h"
+
+1704499380 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\milib.h
+
+1704500143 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\ucadenas.h
+
+1704500097 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_uteclado.h
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	"uDeftecl.h"
+	"_uBase.h"
+
+1704500197 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\udeftecl.h
+
+1704499786 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_ulissec.cpp
+	"_uLisSec.h"
+	<string.h>
+
+1704499751 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_ulissec.h
+	"_uArchivo.h"
+	"_uLisGen.h"
+
+1704499851 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_umangen.cpp
+	<string.h>
+	"_uManGen.h"
+
+1704499819 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_umangen.h
+	"uCadenas.h"
+	"milib.h"
+	"_uLisGen.h"
+
+1704499918 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_umanind.cpp
+	<string.h>
+	"milib.h"
+	"_uManInd.h"
+
+1704499893 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_umanind.h
+	"_uArchivo.h"
+	"_uIndice.h"
+	"_uLisGen.h"
+	"_uManGen.h"
+
+1704500059 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_umansec.cpp
+	<string.h>
+	"milib.h"
+	"_uManSec.h"
+
+1704508395 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_umansec.h
+	"_uArchivo.h"
+	"_uLisGen.h"
+	"_uManGen.h"
+
+1704500118 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\_uteclado.cpp
+	<conio.h>
+	<cstring>
+	"_uTeclado.h"
+
+1704737402 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\milib.cpp
+	<iostream>
+	<iomanip>
+	<Windows.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctype.h>
+	<dos.h>
+	<stdio.h>
+	<thread>
+	<chrono>
+	<random>
+	<sstream>
+	<cstring>
+	"milib.h"
+
+1704500166 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\ucadenas.cpp
+	<string.h>
+	<ctype.h>
+	"milib.h"
+	"uDeftecl.h"
+	"uCadenas.h"
+
+1704500916 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprocli.cpp
+	"uProCli.h"
+	"milib.h"
+	"uCadenas.h"
+
+1704501728 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprocli.h
+	"_uManInd.h"
+
+1704501253 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis1.cpp
+	"uProLis1.h"
+
+1704501220 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis1.h
+	"uProPres.h"
+	"uProCli.h"
+
+1704501549 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\upropres.h
+	"uProCli.h"
+	"_uManSec.h"
+
+1704501305 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis2.cpp
+	"uProLis2.h"
+	"milib.h"
+	"uCadenas.h"
+
+1704508802 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis2.h
+	"uProPres.h"
+
+1704501345 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis3.cpp
+	"uProLis3.h"
+	"uCadenas.h"
+
+1704501326 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis3.h
+	"uProLis2.h"
+
+1704501381 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis4.cpp
+	"uProLis4.h"
+
+1704501360 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis4.h
+	"uProLis2.h"
+
+1704501429 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis5.cpp
+	"uProLis5.h"
+
+1704501405 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis5.h
+	"uProCli.h"
+	"uProPres.h"
+	"uProPago.h"
+
+1704501493 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\upropago.h
+	"_uManSec.h"
+	"uProPres.h"
+	"uProCli.h"
+
+1704501470 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis6.cpp
+	"uProLis6.h"
+
+1704501446 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis6.h
+	"uProLis5.h"
+	"uProPago.h"
+
+1704501524 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\upropago.cpp
+	"uProPago.h"
+
+1704501583 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\upropres.cpp
+	"uProPres.h"
+	"milib.h"
+	"uCadenas.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1704501654 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uproyec.cpp
+	"uProyec.h"
+	"milib.h"
+	"uCadenas.h"
+	<conio.h>
+
+1704501607 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uproyec.h
+	"uProCli.h"
+	"uProPres.h"
+	"uProPago.h"
+	"uProLis.h"
+	"_uBase.h"
+
+1704500959 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis.h
+
+1704508475 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\main.cpp
+	"uProyec.h"
+
+1704501167 source:c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\uprolis.cpp
+	"uProLis.h"
+	"uProLis1.h"
+	"uProLis2.h"
+	"uProLis3.h"
+	"uProLis4.h"
+	"uProLis5.h"
+	"uProLis6.h"
+
+1704736606 c:\users\usuario\onedrive\escritorio\proyecto de aplicacion 2\colors.h
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_uarchivo.cpp
+	<dos.h>
+	<windows.h>
+	"_uArchivo.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_uarchivo.h
+	<iostream>
+	<fstream>
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_ubase.cpp
+	"_uBase.h"
+	"milib.h"
+	<Windows.h>
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_ubase.h
+
+1705592770 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\milib.h
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_uindice.cpp
+	<string.h>
+	"_uIndice.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_uindice.h
+	"_uArchivo.h"
+	<string.h>
+
+1705588832 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_ulisgen.cpp
+	<string.h>
+	"_uLisGen.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_ulisgen.h
+	<conio.h>
+	"milib.h"
+	"uCadenas.h"
+	"_uTeclado.h"
+	"windows.h"
+	"colors.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\ucadenas.h
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_uteclado.h
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	"uDeftecl.h"
+	"_uBase.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\udeftecl.h
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\colors.h
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_ulissec.cpp
+	"_uLisSec.h"
+	<string.h>
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_ulissec.h
+	"_uArchivo.h"
+	"_uLisGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_umangen.cpp
+	<string.h>
+	"_uManGen.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_umangen.h
+	"uCadenas.h"
+	"milib.h"
+	"_uLisGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_umanind.cpp
+	<string.h>
+	"milib.h"
+	"_uManInd.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_umanind.h
+	"_uArchivo.h"
+	"_uIndice.h"
+	"_uLisGen.h"
+	"_uManGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_umansec.cpp
+	<string.h>
+	"milib.h"
+	"_uManSec.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_umansec.h
+	"_uArchivo.h"
+	"_uLisGen.h"
+	"_uManGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\_uteclado.cpp
+	<conio.h>
+	<cstring>
+	"_uTeclado.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\main.cpp
+	"uProyec.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uproyec.h
+	"uProCli.h"
+	"uProPres.h"
+	"uProPago.h"
+	"uProLis.h"
+	"_uBase.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprocli.h
+	"_uManInd.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\upropres.h
+	"uProCli.h"
+	"_uManSec.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\upropago.h
+	"_uManSec.h"
+	"uProPres.h"
+	"uProCli.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis.h
+
+1705591865 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\milib.cpp
+	<iostream>
+	<iomanip>
+	<Windows.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctype.h>
+	<dos.h>
+	<stdio.h>
+	<thread>
+	<chrono>
+	<random>
+	<sstream>
+	<cstring>
+	"milib.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\ucadenas.cpp
+	<string.h>
+	<ctype.h>
+	"milib.h"
+	"uDeftecl.h"
+	"uCadenas.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprocli.cpp
+	"uProCli.h"
+	"milib.h"
+	"uCadenas.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis.cpp
+	"uProLis.h"
+	"uProLis1.h"
+	"uProLis2.h"
+	"uProLis3.h"
+	"uProLis4.h"
+	"uProLis5.h"
+	"uProLis6.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis1.h
+	"uProPres.h"
+	"uProCli.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis2.h
+	"uProPres.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis3.h
+	"uProLis2.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis4.h
+	"uProLis2.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis5.h
+	"uProCli.h"
+	"uProPres.h"
+	"uProPago.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis6.h
+	"uProLis5.h"
+	"uProPago.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis1.cpp
+	"uProLis1.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis2.cpp
+	"uProLis2.h"
+	"milib.h"
+	"uCadenas.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis3.cpp
+	"uProLis3.h"
+	"uCadenas.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis4.cpp
+	"uProLis4.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis5.cpp
+	"uProLis5.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uprolis6.cpp
+	"uProLis6.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\upropago.cpp
+	"uProPago.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\upropres.cpp
+	"uProPres.h"
+	"milib.h"
+	"uCadenas.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\unit ii\projecto libro\proyecto de aplicacion 2 c\uproyec.cpp
+	"uProyec.h"
+	"milib.h"
+	"uCadenas.h"
+	<conio.h>
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_uarchivo.cpp
+	<dos.h>
+	<windows.h>
+	"_uArchivo.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_uarchivo.h
+	<iostream>
+	<fstream>
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_ubase.cpp
+	"_uBase.h"
+	"milib.h"
+	<Windows.h>
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_ubase.h
+
+1705614057 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\milib.h
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_uindice.cpp
+	<string.h>
+	"_uIndice.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_uindice.h
+	"_uArchivo.h"
+	<string.h>
+
+1705588832 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_ulisgen.cpp
+	<string.h>
+	"_uLisGen.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_ulisgen.h
+	<conio.h>
+	"milib.h"
+	"uCadenas.h"
+	"_uTeclado.h"
+	"windows.h"
+	"colors.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\ucadenas.h
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_uteclado.h
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	"uDeftecl.h"
+	"_uBase.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\udeftecl.h
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\colors.h
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_ulissec.cpp
+	"_uLisSec.h"
+	<string.h>
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_ulissec.h
+	"_uArchivo.h"
+	"_uLisGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_umangen.cpp
+	<string.h>
+	"_uManGen.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_umangen.h
+	"uCadenas.h"
+	"milib.h"
+	"_uLisGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_umanind.cpp
+	<string.h>
+	"milib.h"
+	"_uManInd.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_umanind.h
+	"_uArchivo.h"
+	"_uIndice.h"
+	"_uLisGen.h"
+	"_uManGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_umansec.cpp
+	<string.h>
+	"milib.h"
+	"_uManSec.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_umansec.h
+	"_uArchivo.h"
+	"_uLisGen.h"
+	"_uManGen.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\_uteclado.cpp
+	<conio.h>
+	<cstring>
+	"_uTeclado.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\main.cpp
+	"uProyec.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uproyec.h
+	"uProCli.h"
+	"uProPres.h"
+	"uProPago.h"
+	"uProLis.h"
+	"_uBase.h"
+
+1705558238 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprocli.h
+	"_uManInd.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\upropres.h
+	"uProCli.h"
+	"_uManSec.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\upropago.h
+	"_uManSec.h"
+	"uProPres.h"
+	"uProCli.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis.h
+
+1705591865 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\milib.cpp
+	<iostream>
+	<iomanip>
+	<Windows.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctype.h>
+	<dos.h>
+	<stdio.h>
+	<thread>
+	<chrono>
+	<random>
+	<sstream>
+	<cstring>
+	"milib.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\ucadenas.cpp
+	<string.h>
+	<ctype.h>
+	"milib.h"
+	"uDeftecl.h"
+	"uCadenas.h"
+
+1705558238 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprocli.cpp
+	"uProCli.h"
+	"milib.h"
+	"uCadenas.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis.cpp
+	"uProLis.h"
+	"uProLis1.h"
+	"uProLis2.h"
+	"uProLis3.h"
+	"uProLis4.h"
+	"uProLis5.h"
+	"uProLis6.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis1.h
+	"uProPres.h"
+	"uProCli.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis2.h
+	"uProPres.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis3.h
+	"uProLis2.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis4.h
+	"uProLis2.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis5.h
+	"uProCli.h"
+	"uProPres.h"
+	"uProPago.h"
+
+1705558239 c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis6.h
+	"uProLis5.h"
+	"uProPago.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis1.cpp
+	"uProLis1.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis2.cpp
+	"uProLis2.h"
+	"milib.h"
+	"uCadenas.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis3.cpp
+	"uProLis3.h"
+	"uCadenas.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis4.cpp
+	"uProLis4.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis5.cpp
+	"uProLis5.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uprolis6.cpp
+	"uProLis6.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\upropago.cpp
+	"uProPago.h"
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\upropres.cpp
+	"uProPres.h"
+	"milib.h"
+	"uCadenas.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1705558239 source:c:\users\juan7\onedrive\documentos\unap 2023 - iii semester\poo ii\presentacion final\3. proyecto libro 1 y 2\p2  sistema para clientes amortizadores\uproyec.cpp
+	"uProyec.h"
+	"milib.h"
+	"uCadenas.h"
+	<conio.h>
+

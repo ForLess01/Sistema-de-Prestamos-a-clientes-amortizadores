@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto de Aplicacion 2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto de Aplicacion 2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto de Aplicacion 2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="_uArchivo.cpp" />
+		<Unit filename="_uArchivo.h" />
+		<Unit filename="_uBase.cpp" />
+		<Unit filename="_uBase.h" />
+		<Unit filename="_uIndice.cpp" />
+		<Unit filename="_uIndice.h" />
+		<Unit filename="_uLisGen.cpp" />
+		<Unit filename="_uLisGen.h" />
+		<Unit filename="_uLisSec.cpp" />
+		<Unit filename="_uLisSec.h" />
+		<Unit filename="_uManGen.cpp" />
+		<Unit filename="_uManGen.h" />
+		<Unit filename="_uManInd.cpp" />
+		<Unit filename="_uManInd.h" />
+		<Unit filename="_uManSec.cpp" />
+		<Unit filename="_uManSec.h" />
+		<Unit filename="_uTeclado.cpp" />
+		<Unit filename="_uTeclado.h" />
+		<Unit filename="colors.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="milib.cpp" />
+		<Unit filename="milib.h" />
+		<Unit filename="uCadenas.cpp" />
+		<Unit filename="uCadenas.h" />
+		<Unit filename="uDeftecl.h" />
+		<Unit filename="uProCli.cpp" />
+		<Unit filename="uProCli.h" />
+		<Unit filename="uProLis.cpp" />
+		<Unit filename="uProLis.h" />
+		<Unit filename="uProLis1.cpp" />
+		<Unit filename="uProLis1.h" />
+		<Unit filename="uProLis2.cpp" />
+		<Unit filename="uProLis2.h" />
+		<Unit filename="uProLis3.cpp" />
+		<Unit filename="uProLis3.h" />
+		<Unit filename="uProLis4.cpp" />
+		<Unit filename="uProLis4.h" />
+		<Unit filename="uProLis5.cpp" />
+		<Unit filename="uProLis5.h" />
+		<Unit filename="uProLis6.cpp" />
+		<Unit filename="uProLis6.h" />
+		<Unit filename="uProPago.cpp" />
+		<Unit filename="uProPago.h" />
+		<Unit filename="uProPres.cpp" />
+		<Unit filename="uProPres.h" />
+		<Unit filename="uProyec.cpp" />
+		<Unit filename="uProyec.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
